@@ -3,6 +3,5 @@ tgcrypto
 motor
 dnspython
 openai
-python-dotenv
 flask
 gunicorn
