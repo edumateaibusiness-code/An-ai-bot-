@@ -5,3 +5,4 @@ dnspython
 openai
 flask
 gunicorn
+httpx
